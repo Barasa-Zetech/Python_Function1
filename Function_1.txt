@@ -1,0 +1,10 @@
+### Method_1
+######Function Python program to calculate area;
+
+def area(length, width):
+
+    Area = length * width
+
+    return Area
+
+print(area(10, 20))
